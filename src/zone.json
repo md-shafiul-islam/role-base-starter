@@ -1,0 +1,4461 @@
+{
+  "response": [
+    {
+      "ptCity": 52,
+      "pathaoCode": 156,
+      "name": "Bagerhat Sadar"
+    },
+    {
+      "ptCity": 52,
+      "pathaoCode": 594,
+      "name": "Chitalmari"
+    },
+    {
+      "ptCity": 52,
+      "pathaoCode": 595,
+      "name": "Fakirhat"
+    },
+    {
+      "ptCity": 52,
+      "pathaoCode": 596,
+      "name": "Kachua "
+    },
+    {
+      "ptCity": 52,
+      "pathaoCode": 593,
+      "name": "Mollahat "
+    },
+    {
+      "ptCity": 52,
+      "pathaoCode": 868,
+      "name": "Mongla"
+    },
+    {
+      "ptCity": 52,
+      "pathaoCode": 597,
+      "name": "Morelganj"
+    },
+    {
+      "ptCity": 52,
+      "pathaoCode": 598,
+      "name": "Rampal"
+    },
+    {
+      "ptCity": 52,
+      "pathaoCode": 599,
+      "name": "Rayenda"
+    },
+    {
+      "ptCity": 52,
+      "pathaoCode": 984,
+      "name": "Sarankhola"
+    },
+    {
+      "ptCity": 9,
+      "pathaoCode": 753,
+      "name": "Adamdighi"
+    },
+    {
+      "ptCity": 9,
+      "pathaoCode": 480,
+      "name": "Bogra - Gabtoli"
+    },
+    {
+      "ptCity": 9,
+      "pathaoCode": 104,
+      "name": "Bogra Sadar"
+    },
+    {
+      "ptCity": 9,
+      "pathaoCode": 756,
+      "name": "Dhunat"
+    },
+    {
+      "ptCity": 9,
+      "pathaoCode": 719,
+      "name": "Dupchachia"
+    },
+    {
+      "ptCity": 9,
+      "pathaoCode": 479,
+      "name": "Kahalu"
+    },
+    {
+      "ptCity": 9,
+      "pathaoCode": 754,
+      "name": "Nandigram"
+    },
+    {
+      "ptCity": 9,
+      "pathaoCode": 752,
+      "name": "Sariakandi"
+    },
+    {
+      "ptCity": 9,
+      "pathaoCode": 751,
+      "name": "Shajahanpur "
+    },
+    {
+      "ptCity": 9,
+      "pathaoCode": 757,
+      "name": "Shantaher"
+    },
+    {
+      "ptCity": 9,
+      "pathaoCode": 478,
+      "name": "Sherpur"
+    },
+    {
+      "ptCity": 9,
+      "pathaoCode": 481,
+      "name": "Shibganj"
+    },
+    {
+      "ptCity": 9,
+      "pathaoCode": 755,
+      "name": "Sonatola"
+    },
+    {
+      "ptCity": 62,
+      "pathaoCode": 714,
+      "name": "Alikadam"
+    },
+    {
+      "ptCity": 62,
+      "pathaoCode": 166,
+      "name": "Bandarban Sadar"
+    },
+    {
+      "ptCity": 62,
+      "pathaoCode": 692,
+      "name": "Kalaghata"
+    },
+    {
+      "ptCity": 62,
+      "pathaoCode": 696,
+      "name": "Lama"
+    },
+    {
+      "ptCity": 62,
+      "pathaoCode": 1008,
+      "name": "Naikhong"
+    },
+    {
+      "ptCity": 62,
+      "pathaoCode": 693,
+      "name": "Roanchhari "
+    },
+    {
+      "ptCity": 62,
+      "pathaoCode": 694,
+      "name": "Ruma"
+    },
+    {
+      "ptCity": 62,
+      "pathaoCode": 695,
+      "name": "Thanchi"
+    },
+    {
+      "ptCity": 53,
+      "pathaoCode": 157,
+      "name": "Bhola Sadar"
+    },
+    {
+      "ptCity": 53,
+      "pathaoCode": 900,
+      "name": "Burhanuddin "
+    },
+    {
+      "ptCity": 53,
+      "pathaoCode": 903,
+      "name": "Char fashion "
+    },
+    {
+      "ptCity": 53,
+      "pathaoCode": 904,
+      "name": "Dokkhin aicha"
+    },
+    {
+      "ptCity": 53,
+      "pathaoCode": 899,
+      "name": "Doulatkhan"
+    },
+    {
+      "ptCity": 53,
+      "pathaoCode": 901,
+      "name": "Lalmohon"
+    },
+    {
+      "ptCity": 53,
+      "pathaoCode": 902,
+      "name": "Tazumuddin "
+    },
+    {
+      "ptCity": 17,
+      "pathaoCode": 911,
+      "name": "Agailzhara"
+    },
+    {
+      "ptCity": 17,
+      "pathaoCode": 916,
+      "name": "Babuganj"
+    },
+    {
+      "ptCity": 17,
+      "pathaoCode": 915,
+      "name": "Bakergonj"
+    },
+    {
+      "ptCity": 17,
+      "pathaoCode": 914,
+      "name": "Banaripara"
+    },
+    {
+      "ptCity": 17,
+      "pathaoCode": 1014,
+      "name": "Barisal Bandor Thana"
+    },
+    {
+      "ptCity": 17,
+      "pathaoCode": 113,
+      "name": "Barisal Sadar"
+    },
+    {
+      "ptCity": 17,
+      "pathaoCode": 910,
+      "name": "Gauronodi"
+    },
+    {
+      "ptCity": 17,
+      "pathaoCode": 912,
+      "name": "Hizla "
+    },
+    {
+      "ptCity": 17,
+      "pathaoCode": 909,
+      "name": "Kotowali"
+    },
+    {
+      "ptCity": 17,
+      "pathaoCode": 607,
+      "name": "Mahendiganj"
+    },
+    {
+      "ptCity": 17,
+      "pathaoCode": 913,
+      "name": "Muladi"
+    },
+    {
+      "ptCity": 17,
+      "pathaoCode": 917,
+      "name": "Wazirpur Powrosova"
+    },
+    {
+      "ptCity": 32,
+      "pathaoCode": 546,
+      "name": "Akhaura"
+    },
+    {
+      "ptCity": 32,
+      "pathaoCode": 728,
+      "name": "Asugonj"
+    },
+    {
+      "ptCity": 32,
+      "pathaoCode": 133,
+      "name": "Banchharampur "
+    },
+    {
+      "ptCity": 32,
+      "pathaoCode": 748,
+      "name": "Bijoynagar"
+    },
+    {
+      "ptCity": 32,
+      "pathaoCode": 547,
+      "name": "Brahamanbaria Sadar"
+    },
+    {
+      "ptCity": 32,
+      "pathaoCode": 548,
+      "name": "Kasba"
+    },
+    {
+      "ptCity": 32,
+      "pathaoCode": 549,
+      "name": "Nabinagar"
+    },
+    {
+      "ptCity": 32,
+      "pathaoCode": 551,
+      "name": "Nasirnagar"
+    },
+    {
+      "ptCity": 32,
+      "pathaoCode": 550,
+      "name": "Sarail"
+    },
+    {
+      "ptCity": 34,
+      "pathaoCode": 931,
+      "name": "Amtoly"
+    },
+    {
+      "ptCity": 34,
+      "pathaoCode": 933,
+      "name": "Bamna"
+    },
+    {
+      "ptCity": 34,
+      "pathaoCode": 135,
+      "name": "Barguna Sadar"
+    },
+    {
+      "ptCity": 34,
+      "pathaoCode": 932,
+      "name": "Betage"
+    },
+    {
+      "ptCity": 34,
+      "pathaoCode": 934,
+      "name": "Pathor ghata"
+    },
+    {
+      "ptCity": 34,
+      "pathaoCode": 930,
+      "name": "Taltoly"
+    },
+    {
+      "ptCity": 15,
+      "pathaoCode": 558,
+      "name": "Bholahat"
+    },
+    {
+      "ptCity": 15,
+      "pathaoCode": 111,
+      "name": "Chapainawabganj Sadar"
+    },
+    {
+      "ptCity": 15,
+      "pathaoCode": 508,
+      "name": "Gomastapur"
+    },
+    {
+      "ptCity": 15,
+      "pathaoCode": 559,
+      "name": "Nachole"
+    },
+    {
+      "ptCity": 15,
+      "pathaoCode": 509,
+      "name": "Shibganj "
+    },
+    {
+      "ptCity": 2,
+      "pathaoCode": 84,
+      "name": " Khulshi "
+    },
+    {
+      "ptCity": 2,
+      "pathaoCode": 78,
+      "name": "Akbarsha"
+    },
+    {
+      "ptCity": 2,
+      "pathaoCode": 434,
+      "name": "Anawara"
+    },
+    {
+      "ptCity": 2,
+      "pathaoCode": 69,
+      "name": "Andarkilla"
+    },
+    {
+      "ptCity": 2,
+      "pathaoCode": 453,
+      "name": "Anowara"
+    },
+    {
+      "ptCity": 2,
+      "pathaoCode": 83,
+      "name": "Bakoliya thana"
+    },
+    {
+      "ptCity": 2,
+      "pathaoCode": 459,
+      "name": "Bashkhali "
+    },
+    {
+      "ptCity": 2,
+      "pathaoCode": 80,
+      "name": "Bayazid"
+    },
+    {
+      "ptCity": 2,
+      "pathaoCode": 681,
+      "name": "Boalkhali"
+    },
+    {
+      "ptCity": 2,
+      "pathaoCode": 1027,
+      "name": "Bondor"
+    },
+    {
+      "ptCity": 2,
+      "pathaoCode": 460,
+      "name": "CTG - Lohagara "
+    },
+    {
+      "ptCity": 2,
+      "pathaoCode": 1015,
+      "name": "Chandanaish "
+    },
+    {
+      "ptCity": 2,
+      "pathaoCode": 375,
+      "name": "Chandgaon"
+    },
+    {
+      "ptCity": 2,
+      "pathaoCode": 79,
+      "name": "Chawkbazar (Chattogram)"
+    },
+    {
+      "ptCity": 2,
+      "pathaoCode": 1032,
+      "name": "Dohajari"
+    },
+    {
+      "ptCity": 2,
+      "pathaoCode": 86,
+      "name": "Double mooring"
+    },
+    {
+      "ptCity": 2,
+      "pathaoCode": 73,
+      "name": "EPZ"
+    },
+    {
+      "ptCity": 2,
+      "pathaoCode": 400,
+      "name": "East Joara"
+    },
+    {
+      "ptCity": 2,
+      "pathaoCode": 405,
+      "name": "Enayet bazar"
+    },
+    {
+      "ptCity": 2,
+      "pathaoCode": 417,
+      "name": "Fatikchhari"
+    },
+    {
+      "ptCity": 2,
+      "pathaoCode": 75,
+      "name": "Halishahar"
+    },
+    {
+      "ptCity": 2,
+      "pathaoCode": 81,
+      "name": "Hathazari "
+    },
+    {
+      "ptCity": 2,
+      "pathaoCode": 993,
+      "name": "Karnophuli"
+    },
+    {
+      "ptCity": 2,
+      "pathaoCode": 716,
+      "name": "Keranihat"
+    },
+    {
+      "ptCity": 2,
+      "pathaoCode": 364,
+      "name": "Kotowali Chittagong"
+    },
+    {
+      "ptCity": 2,
+      "pathaoCode": 987,
+      "name": "Kotwali (Chattogram)"
+    },
+    {
+      "ptCity": 2,
+      "pathaoCode": 87,
+      "name": "Mirsharai"
+    },
+    {
+      "ptCity": 2,
+      "pathaoCode": 685,
+      "name": "Nasirabad"
+    },
+    {
+      "ptCity": 2,
+      "pathaoCode": 703,
+      "name": "Nazirhat"
+    },
+    {
+      "ptCity": 2,
+      "pathaoCode": 72,
+      "name": "New Market CTG"
+    },
+    {
+      "ptCity": 2,
+      "pathaoCode": 986,
+      "name": "Pahartali"
+    },
+    {
+      "ptCity": 2,
+      "pathaoCode": 333,
+      "name": "Panchlaish ctg"
+    },
+    {
+      "ptCity": 2,
+      "pathaoCode": 457,
+      "name": "Patia"
+    },
+    {
+      "ptCity": 2,
+      "pathaoCode": 378,
+      "name": "Rangunia"
+    },
+    {
+      "ptCity": 2,
+      "pathaoCode": 68,
+      "name": "Raozan"
+    },
+    {
+      "ptCity": 2,
+      "pathaoCode": 365,
+      "name": "Sadarghat (Chattogram)"
+    },
+    {
+      "ptCity": 2,
+      "pathaoCode": 705,
+      "name": "Sandwip"
+    },
+    {
+      "ptCity": 2,
+      "pathaoCode": 371,
+      "name": "Satkaniya"
+    },
+    {
+      "ptCity": 2,
+      "pathaoCode": 420,
+      "name": "Sitakunda"
+    },
+    {
+      "ptCity": 2,
+      "pathaoCode": 1026,
+      "name": "Vatiary"
+    },
+    {
+      "ptCity": 2,
+      "pathaoCode": 730,
+      "name": "Zorarganj"
+    },
+    {
+      "ptCity": 8,
+      "pathaoCode": 102,
+      "name": "Chandpur Sadar"
+    },
+    {
+      "ptCity": 8,
+      "pathaoCode": 563,
+      "name": "Faridganj"
+    },
+    {
+      "ptCity": 8,
+      "pathaoCode": 565,
+      "name": "Hayemchar"
+    },
+    {
+      "ptCity": 8,
+      "pathaoCode": 564,
+      "name": "Haziganj"
+    },
+    {
+      "ptCity": 8,
+      "pathaoCode": 566,
+      "name": "Kachua"
+    },
+    {
+      "ptCity": 8,
+      "pathaoCode": 667,
+      "name": "Matlab"
+    },
+    {
+      "ptCity": 8,
+      "pathaoCode": 749,
+      "name": "Matlab-Uttar"
+    },
+    {
+      "ptCity": 8,
+      "pathaoCode": 567,
+      "name": "Shahrasti"
+    },
+    {
+      "ptCity": 61,
+      "pathaoCode": 647,
+      "name": "Alamdanga"
+    },
+    {
+      "ptCity": 61,
+      "pathaoCode": 165,
+      "name": "Chuadanga Sadar"
+    },
+    {
+      "ptCity": 61,
+      "pathaoCode": 591,
+      "name": "Damurhuda"
+    },
+    {
+      "ptCity": 61,
+      "pathaoCode": 968,
+      "name": "Darshana"
+    },
+    {
+      "ptCity": 61,
+      "pathaoCode": 592,
+      "name": "Doulatganj"
+    },
+    {
+      "ptCity": 61,
+      "pathaoCode": 646,
+      "name": "Jiban nagar"
+    },
+    {
+      "ptCity": 5,
+      "pathaoCode": 91,
+      "name": "B.Para"
+    },
+    {
+      "ptCity": 5,
+      "pathaoCode": 534,
+      "name": "Barura"
+    },
+    {
+      "ptCity": 5,
+      "pathaoCode": 92,
+      "name": "Burichang"
+    },
+    {
+      "ptCity": 5,
+      "pathaoCode": 741,
+      "name": "Cantonment"
+    },
+    {
+      "ptCity": 5,
+      "pathaoCode": 98,
+      "name": "Chandina"
+    },
+    {
+      "ptCity": 5,
+      "pathaoCode": 97,
+      "name": "Chauddagram"
+    },
+    {
+      "ptCity": 5,
+      "pathaoCode": 732,
+      "name": "Comilla Companigonj"
+    },
+    {
+      "ptCity": 5,
+      "pathaoCode": 93,
+      "name": "Cumilla Sadar"
+    },
+    {
+      "ptCity": 5,
+      "pathaoCode": 545,
+      "name": "Daudkandi"
+    },
+    {
+      "ptCity": 5,
+      "pathaoCode": 99,
+      "name": "Devidwar"
+    },
+    {
+      "ptCity": 5,
+      "pathaoCode": 736,
+      "name": "Eliotgonj"
+    },
+    {
+      "ptCity": 5,
+      "pathaoCode": 737,
+      "name": "Gouripur"
+    },
+    {
+      "ptCity": 5,
+      "pathaoCode": 96,
+      "name": "Homna"
+    },
+    {
+      "ptCity": 5,
+      "pathaoCode": 731,
+      "name": "Kotbari"
+    },
+    {
+      "ptCity": 5,
+      "pathaoCode": 94,
+      "name": "Laksam"
+    },
+    {
+      "ptCity": 5,
+      "pathaoCode": 735,
+      "name": "Lalmai"
+    },
+    {
+      "ptCity": 5,
+      "pathaoCode": 740,
+      "name": "Megna"
+    },
+    {
+      "ptCity": 5,
+      "pathaoCode": 552,
+      "name": "Mia-Bazar"
+    },
+    {
+      "ptCity": 5,
+      "pathaoCode": 733,
+      "name": "Monohorgonj"
+    },
+    {
+      "ptCity": 5,
+      "pathaoCode": 103,
+      "name": "Muddafarganj"
+    },
+    {
+      "ptCity": 5,
+      "pathaoCode": 553,
+      "name": "Muradnagar"
+    },
+    {
+      "ptCity": 5,
+      "pathaoCode": 95,
+      "name": "Nangolkot"
+    },
+    {
+      "ptCity": 5,
+      "pathaoCode": 734,
+      "name": "Sadar Dakkhin"
+    },
+    {
+      "ptCity": 5,
+      "pathaoCode": 738,
+      "name": "South Daudkandi"
+    },
+    {
+      "ptCity": 5,
+      "pathaoCode": 739,
+      "name": "Titash"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1016,
+      "name": " Dhamrai , Savar"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1046,
+      "name": " Savar-Nabinagar"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1043,
+      "name": " house building"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 298,
+      "name": "60 feet"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1070,
+      "name": "Abdullahpur Uttara"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1066,
+      "name": "Abul Hotel "
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 52,
+      "name": "Adabor"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1094,
+      "name": "Adarsha Nagar - Kutubpur "
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 300,
+      "name": "Aftab Nagar"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 17,
+      "name": "Agargaon"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1108,
+      "name": "Agargaon-Taltola"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 317,
+      "name": "Arambag"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 965,
+      "name": "Ashkona"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1078,
+      "name": "Ati Bazar"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 55,
+      "name": "Azimpur (Lalbag)"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 30,
+      "name": "Badda"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 312,
+      "name": "Baily Road"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 274,
+      "name": "Bakshi Bazar"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 292,
+      "name": "Balughat"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1,
+      "name": "Banani"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 181,
+      "name": "Banani DOHS"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 24,
+      "name": "Banasree (Block A-G)"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1058,
+      "name": "Banasree (Block H-J)"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 40,
+      "name": "Bangla bazar"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 250,
+      "name": "Bangshal"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 959,
+      "name": "Baridhara DOHS"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 958,
+      "name": "Baridhara Diplomatic Zone"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 960,
+      "name": "Baridhara J Block"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 303,
+      "name": "Bashabo "
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 6,
+      "name": "Bashundhara "
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 176,
+      "name": "Bawnia"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1138,
+      "name": "Begunbari"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1132,
+      "name": "Benaroshi Polli"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1169,
+      "name": "Benaroshi polli Blok A"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1170,
+      "name": "Benaroshi polli Blok B,C"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1171,
+      "name": "Benaroshi polli Blok D"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 981,
+      "name": "Beraid"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1154,
+      "name": "Block A, C, Mirpur 11"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1167,
+      "name": "Block A,B, Mirpur 6"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1155,
+      "name": "Block B, D, Mirpur 11"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1166,
+      "name": "Block D,E , Mirpur 6 "
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1165,
+      "name": "Block-E, Mirpur 12"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 964,
+      "name": "Boro Moghbazar"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1168,
+      "name": "Bulk Merchant"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 972,
+      "name": "Central Road"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 630,
+      "name": "ChawkBazar (Dhaka)"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 966,
+      "name": "DIT Road"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 15,
+      "name": "Dakshinkhan"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 287,
+      "name": "Darussalam"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 245,
+      "name": "Demra"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1056,
+      "name": "Dhaka Medical"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 200,
+      "name": "Dhaka University"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 342,
+      "name": "Dhaka cantonment"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 62,
+      "name": "Dhanmondi"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 979,
+      "name": "Dholpur"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1045,
+      "name": "Diabari"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1075,
+      "name": "Dohar"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 23,
+      "name": "ECB"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 967,
+      "name": "Elephant Road"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1079,
+      "name": "Equria Thana"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 311,
+      "name": "Eskaton"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1149,
+      "name": "Estern Housing"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1131,
+      "name": "Extension Pallabi"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 13,
+      "name": "Faidabad"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 978,
+      "name": "Faridabad"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 46,
+      "name": "Farmgate"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 42,
+      "name": "Gandaria"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1129,
+      "name": "Ganobhabon"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1097,
+      "name": "Giridhara Abashik"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 254,
+      "name": "Gopibagh"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 308,
+      "name": "Goran"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1062,
+      "name": "Gulbagh"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 35,
+      "name": "Gulisthan"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 4,
+      "name": "Gulshan 1"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 5,
+      "name": "Gulshan-2 "
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 213,
+      "name": "Hatirpool"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 56,
+      "name": "Hazaribagh"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1035,
+      "name": "Ibrahimpur"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 257,
+      "name": "Islampur"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 243,
+      "name": "Islampur (Dhamrai)"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 248,
+      "name": "Jatrabari"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1054,
+      "name": "Jhauchor"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 61,
+      "name": "Jigatola"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1063,
+      "name": "Joardar Lane"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1150,
+      "name": "Journalist Residential Area"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 977,
+      "name": "Jurain"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 980,
+      "name": "Kadamtoli "
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 63,
+      "name": "Kalabagan"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 64,
+      "name": "Kallyanpur"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 252,
+      "name": "Kamalapur"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 59,
+      "name": "Kathalbagan"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 16,
+      "name": "Kawla"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 58,
+      "name": "Kawran Bazar"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 286,
+      "name": "Kazipara"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 66,
+      "name": "Keraniganj"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1077,
+      "name": "Keraniganj Model Thana"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 29,
+      "name": "Khilgaon"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 178,
+      "name": "Khilkhet"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 239,
+      "name": "Kotwali (Dhaka)"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 177,
+      "name": "Kuril"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 260,
+      "name": "Lakshmibazar"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 57,
+      "name": "Lalbag"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1036,
+      "name": "Lalkuthi"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1157,
+      "name": "Love Road, Mirpur-2"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1065,
+      "name": "Malibagh  Baganbari"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1060,
+      "name": "Malibagh College Road "
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1061,
+      "name": "Malibagh Lane"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1064,
+      "name": "Malibagh Pabna Colony "
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 971,
+      "name": "Manda "
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 251,
+      "name": "Manik Nagar"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 337,
+      "name": "Manikdi"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1158,
+      "name": "Masjid Market, Mirpur 2"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 291,
+      "name": "Matikata"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 255,
+      "name": "Matuail"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1134,
+      "name": "Mazar road"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1099,
+      "name": "Middle Rosulbag "
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 171,
+      "name": "Mirpur 1"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1151,
+      "name": "Mirpur 1 Market Area"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 19,
+      "name": "Mirpur 10"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 20,
+      "name": "Mirpur 11 "
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1156,
+      "name": "Mirpur 11 Lalmatia"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 280,
+      "name": "Mirpur 12"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1163,
+      "name": "Mirpur 12 Block A,C"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1176,
+      "name": "Mirpur 12 Block Ta"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1164,
+      "name": "Mirpur 12 Block-Dhak, B"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 717,
+      "name": "Mirpur 13"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 21,
+      "name": "Mirpur 14"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 22,
+      "name": "Mirpur 2"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 283,
+      "name": "Mirpur 6"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1172,
+      "name": "Mirpur 6 (Block C)"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 475,
+      "name": "Mirpur 7"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1159,
+      "name": "Mirpur Cantonment "
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1174,
+      "name": "Mirpur Cantonment (Ave new 3 )"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 281,
+      "name": "Mirpur DOHS"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1175,
+      "name": "Mirpur DOHS (Ave New 9)"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1173,
+      "name": "Mirpur DOHS (Ave new 2)"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1161,
+      "name": "Mirpur-Rupnagar"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 315,
+      "name": "Modhubag"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 32,
+      "name": "Mogbazar"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 2,
+      "name": "Mohakhali"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 11,
+      "name": "Mohakhali DOHS"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 50,
+      "name": "Mohammadpur"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 233,
+      "name": "Monipur"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1101,
+      "name": "Monumia Market"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 34,
+      "name": "Motijheel"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 307,
+      "name": "Mugda"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 182,
+      "name": "Nadda"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1074,
+      "name": "Nakhal para"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 10,
+      "name": "Nakhalpara "
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 266,
+      "name": "Narinda"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 627,
+      "name": "Nawabganj (Dhaka)"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1076,
+      "name": "Nawabganj (Dohar)"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 259,
+      "name": "Nawabpur"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 41,
+      "name": "Naya Bazar"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1139,
+      "name": "Nayanagar"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 205,
+      "name": "Nazim Uddin Road"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 36,
+      "name": "Nazira Bazar"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 60,
+      "name": "New Elephant Road"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 201,
+      "name": "New Market"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 9,
+      "name": "Niketan"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 8,
+      "name": "Nikunja"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 961,
+      "name": "Nikunja 2"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 210,
+      "name": "Nilkhet"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1092,
+      "name": "Nimaikishori"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1113,
+      "name": "North Sanarpar"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1067,
+      "name": "Noyatola road "
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1009,
+      "name": "On-demand  transfer"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 18,
+      "name": "Paikpara"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 975,
+      "name": "Pallabi"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1160,
+      "name": "Pallabi Residential area"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 33,
+      "name": "Paltan"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 750,
+      "name": "Panthapath"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 973,
+      "name": "Pirerbagh"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 28,
+      "name": "Rampura"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1071,
+      "name": "Rayer Bazar"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 244,
+      "name": "Rayerbag"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1137,
+      "name": "Razarbag Police line"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 974,
+      "name": "Rupnagar"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 258,
+      "name": "Sadarghat (Dhaka)"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 65,
+      "name": "Savar"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 173,
+      "name": "Senpara"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1162,
+      "name": "Shagufta Block-D"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1135,
+      "name": "Shah Ali Bag"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 199,
+      "name": "Shahbag"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 957,
+      "name": "Shahid Nagar"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 180,
+      "name": "Shahjadpur"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 318,
+      "name": "Shajahanpur"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 38,
+      "name": "Shanir Akhra"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 26,
+      "name": "Shantinagar"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 302,
+      "name": "Shegunbagicha"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1152,
+      "name": "Sheikh Rasel Park"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1133,
+      "name": "Sher-E-Bangla National Cricket Stadium"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1037,
+      "name": "Sher-e bangla Nagar"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 174,
+      "name": "Shewrapara"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 306,
+      "name": "Shiddeshwari"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1100,
+      "name": "Shimrail"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1128,
+      "name": "Shishu Mela"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 31,
+      "name": "Shonalibagh"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1069,
+      "name": "Shonir Akhra"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 198,
+      "name": "Shyamoli"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 963,
+      "name": "South Banasree"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1111,
+      "name": "South kafrul"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 661,
+      "name": "Sutrapur "
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1136,
+      "name": "Technical "
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 3,
+      "name": "Tejgaon"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 282,
+      "name": "Tolarbag"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 327,
+      "name": "Turag"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 14,
+      "name": "UttarKhan"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 12,
+      "name": "Uttara Sector 1"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 941,
+      "name": "Uttara Sector 10"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 942,
+      "name": "Uttara Sector 11"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 943,
+      "name": "Uttara Sector 12"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 944,
+      "name": "Uttara Sector 13"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 945,
+      "name": "Uttara Sector 14"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1000,
+      "name": "Uttara Sector 15"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1001,
+      "name": "Uttara Sector 16"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1002,
+      "name": "Uttara Sector 17"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1003,
+      "name": "Uttara Sector 18"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 935,
+      "name": "Uttara Sector 3"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 936,
+      "name": "Uttara Sector 4"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 937,
+      "name": "Uttara Sector 5"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 939,
+      "name": "Uttara Sector 7"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 946,
+      "name": "Uttara Sector 8"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 940,
+      "name": "Uttara Sector 9"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 938,
+      "name": "Uttara sector 6"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 37,
+      "name": "Wari"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1109,
+      "name": "West Agargaon"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1112,
+      "name": "West Kafrul"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1153,
+      "name": "Zoo Road"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1041,
+      "name": "azampur (Uttara)"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 352,
+      "name": "kafrul"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 655,
+      "name": "kamranggirchar"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1102,
+      "name": "london market"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1140,
+      "name": "lost"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1096,
+      "name": "mukti nagar"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1095,
+      "name": "narayanpur - keshobpur "
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1055,
+      "name": "new paltan"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1042,
+      "name": "rajlakkhi market "
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 976,
+      "name": "shampur"
+    },
+    {
+      "ptCity": 1,
+      "pathaoCode": 1072,
+      "name": "shankar"
+    },
+    {
+      "ptCity": 11,
+      "pathaoCode": 107,
+      "name": "Chakaria"
+    },
+    {
+      "ptCity": 11,
+      "pathaoCode": 106,
+      "name": "Cox's bazar Sadar"
+    },
+    {
+      "ptCity": 11,
+      "pathaoCode": 898,
+      "name": "Eidgah"
+    },
+    {
+      "ptCity": 11,
+      "pathaoCode": 638,
+      "name": "Kutubdia"
+    },
+    {
+      "ptCity": 11,
+      "pathaoCode": 896,
+      "name": "Moheshkhali"
+    },
+    {
+      "ptCity": 11,
+      "pathaoCode": 560,
+      "name": "Pakua"
+    },
+    {
+      "ptCity": 11,
+      "pathaoCode": 561,
+      "name": "Ramu"
+    },
+    {
+      "ptCity": 11,
+      "pathaoCode": 897,
+      "name": "Teknaf"
+    },
+    {
+      "ptCity": 11,
+      "pathaoCode": 562,
+      "name": "Ukhia"
+    },
+    {
+      "ptCity": 35,
+      "pathaoCode": 582,
+      "name": "Biral"
+    },
+    {
+      "ptCity": 35,
+      "pathaoCode": 817,
+      "name": "Birampur"
+    },
+    {
+      "ptCity": 35,
+      "pathaoCode": 811,
+      "name": "Birganj"
+    },
+    {
+      "ptCity": 35,
+      "pathaoCode": 814,
+      "name": "Bochaganj"
+    },
+    {
+      "ptCity": 35,
+      "pathaoCode": 810,
+      "name": "Chirirbandar"
+    },
+    {
+      "ptCity": 35,
+      "pathaoCode": 136,
+      "name": "Dinajpur Sadar"
+    },
+    {
+      "ptCity": 35,
+      "pathaoCode": 816,
+      "name": "Fulbari"
+    },
+    {
+      "ptCity": 35,
+      "pathaoCode": 819,
+      "name": "Ghoraghat"
+    },
+    {
+      "ptCity": 35,
+      "pathaoCode": 820,
+      "name": "Hakimpur (Hili)"
+    },
+    {
+      "ptCity": 35,
+      "pathaoCode": 812,
+      "name": "Kaharol"
+    },
+    {
+      "ptCity": 35,
+      "pathaoCode": 813,
+      "name": "Khanshama"
+    },
+    {
+      "ptCity": 35,
+      "pathaoCode": 818,
+      "name": "Nawabganj Dinajpur"
+    },
+    {
+      "ptCity": 35,
+      "pathaoCode": 815,
+      "name": "Parbatipur"
+    },
+    {
+      "ptCity": 18,
+      "pathaoCode": 922,
+      "name": "Alfadanga"
+    },
+    {
+      "ptCity": 18,
+      "pathaoCode": 923,
+      "name": "Bhanga"
+    },
+    {
+      "ptCity": 18,
+      "pathaoCode": 924,
+      "name": "Boalmari"
+    },
+    {
+      "ptCity": 18,
+      "pathaoCode": 925,
+      "name": "Charbhadrashan"
+    },
+    {
+      "ptCity": 18,
+      "pathaoCode": 114,
+      "name": "Faridpur Sadar"
+    },
+    {
+      "ptCity": 18,
+      "pathaoCode": 926,
+      "name": "Madukhali"
+    },
+    {
+      "ptCity": 18,
+      "pathaoCode": 927,
+      "name": "Nagarkanda"
+    },
+    {
+      "ptCity": 18,
+      "pathaoCode": 928,
+      "name": "Sadarpur"
+    },
+    {
+      "ptCity": 18,
+      "pathaoCode": 929,
+      "name": "Saltha"
+    },
+    {
+      "ptCity": 56,
+      "pathaoCode": 160,
+      "name": "Gopalganj Sadar"
+    },
+    {
+      "ptCity": 56,
+      "pathaoCode": 918,
+      "name": "Kashiani"
+    },
+    {
+      "ptCity": 56,
+      "pathaoCode": 919,
+      "name": "Kotalipara"
+    },
+    {
+      "ptCity": 56,
+      "pathaoCode": 920,
+      "name": "Muksudpur"
+    },
+    {
+      "ptCity": 56,
+      "pathaoCode": 921,
+      "name": "Tungipara"
+    },
+    {
+      "ptCity": 38,
+      "pathaoCode": 781,
+      "name": "Fulchhari"
+    },
+    {
+      "ptCity": 38,
+      "pathaoCode": 139,
+      "name": "Gaibandha Sadar"
+    },
+    {
+      "ptCity": 38,
+      "pathaoCode": 645,
+      "name": "Gobindaganj"
+    },
+    {
+      "ptCity": 38,
+      "pathaoCode": 644,
+      "name": "Palashbari"
+    },
+    {
+      "ptCity": 38,
+      "pathaoCode": 782,
+      "name": "Sadulllahpur"
+    },
+    {
+      "ptCity": 38,
+      "pathaoCode": 783,
+      "name": "Saghata"
+    },
+    {
+      "ptCity": 38,
+      "pathaoCode": 784,
+      "name": "Sundarganj"
+    },
+    {
+      "ptCity": 30,
+      "pathaoCode": 684,
+      "name": "Azmireeganj"
+    },
+    {
+      "ptCity": 30,
+      "pathaoCode": 725,
+      "name": "Bahubal"
+    },
+    {
+      "ptCity": 30,
+      "pathaoCode": 842,
+      "name": "Baniachong"
+    },
+    {
+      "ptCity": 30,
+      "pathaoCode": 843,
+      "name": "Chunarughat"
+    },
+    {
+      "ptCity": 30,
+      "pathaoCode": 131,
+      "name": "Habiganj Sadar"
+    },
+    {
+      "ptCity": 30,
+      "pathaoCode": 844,
+      "name": "Lakhai"
+    },
+    {
+      "ptCity": 30,
+      "pathaoCode": 726,
+      "name": "Madhabpur"
+    },
+    {
+      "ptCity": 30,
+      "pathaoCode": 727,
+      "name": "Nabiganj"
+    },
+    {
+      "ptCity": 6,
+      "pathaoCode": 568,
+      "name": "Chhagalnaiya"
+    },
+    {
+      "ptCity": 6,
+      "pathaoCode": 569,
+      "name": "Daganbhuiyan"
+    },
+    {
+      "ptCity": 6,
+      "pathaoCode": 100,
+      "name": "Feni Sadar"
+    },
+    {
+      "ptCity": 6,
+      "pathaoCode": 746,
+      "name": "Ful-Gazi"
+    },
+    {
+      "ptCity": 6,
+      "pathaoCode": 572,
+      "name": "Pashuram"
+    },
+    {
+      "ptCity": 6,
+      "pathaoCode": 573,
+      "name": "Sonagazi"
+    },
+    {
+      "ptCity": 22,
+      "pathaoCode": 1184,
+      "name": "Amraid"
+    },
+    {
+      "ptCity": 22,
+      "pathaoCode": 1182,
+      "name": "Aral"
+    },
+    {
+      "ptCity": 22,
+      "pathaoCode": 863,
+      "name": "Bason "
+    },
+    {
+      "ptCity": 22,
+      "pathaoCode": 1178,
+      "name": "Bhawal Mirzapur"
+    },
+    {
+      "ptCity": 22,
+      "pathaoCode": 862,
+      "name": "Board Bazar"
+    },
+    {
+      "ptCity": 22,
+      "pathaoCode": 861,
+      "name": "Borobari"
+    },
+    {
+      "ptCity": 22,
+      "pathaoCode": 1183,
+      "name": "Chalar Bazar"
+    },
+    {
+      "ptCity": 22,
+      "pathaoCode": 859,
+      "name": "College gate"
+    },
+    {
+      "ptCity": 22,
+      "pathaoCode": 990,
+      "name": "Gacha"
+    },
+    {
+      "ptCity": 22,
+      "pathaoCode": 123,
+      "name": "Gazipur Chowrasta"
+    },
+    {
+      "ptCity": 22,
+      "pathaoCode": 860,
+      "name": "Gazipura"
+    },
+    {
+      "ptCity": 22,
+      "pathaoCode": 866,
+      "name": "Hotapara"
+    },
+    {
+      "ptCity": 22,
+      "pathaoCode": 864,
+      "name": "Joydebpur"
+    },
+    {
+      "ptCity": 22,
+      "pathaoCode": 724,
+      "name": "Kaliakair"
+    },
+    {
+      "ptCity": 22,
+      "pathaoCode": 715,
+      "name": "Kaliganj"
+    },
+    {
+      "ptCity": 22,
+      "pathaoCode": 865,
+      "name": "Kapashiya"
+    },
+    {
+      "ptCity": 22,
+      "pathaoCode": 1181,
+      "name": "Kapasia"
+    },
+    {
+      "ptCity": 22,
+      "pathaoCode": 1048,
+      "name": "Kashimpur"
+    },
+    {
+      "ptCity": 22,
+      "pathaoCode": 1068,
+      "name": "Konabari"
+    },
+    {
+      "ptCity": 22,
+      "pathaoCode": 867,
+      "name": "Mawna "
+    },
+    {
+      "ptCity": 22,
+      "pathaoCode": 1047,
+      "name": "Mowchak"
+    },
+    {
+      "ptCity": 22,
+      "pathaoCode": 1177,
+      "name": "Porabari"
+    },
+    {
+      "ptCity": 22,
+      "pathaoCode": 1179,
+      "name": "Rajendrapur Bangla Bazar "
+    },
+    {
+      "ptCity": 22,
+      "pathaoCode": 1180,
+      "name": "Rajendrapur Cantonment  "
+    },
+    {
+      "ptCity": 22,
+      "pathaoCode": 529,
+      "name": "Sreepur"
+    },
+    {
+      "ptCity": 22,
+      "pathaoCode": 1185,
+      "name": "Toke"
+    },
+    {
+      "ptCity": 22,
+      "pathaoCode": 517,
+      "name": "Tongi"
+    },
+    {
+      "ptCity": 22,
+      "pathaoCode": 858,
+      "name": "Tongi Cherag Ali"
+    },
+    {
+      "ptCity": 41,
+      "pathaoCode": 871,
+      "name": "Bakshiganj"
+    },
+    {
+      "ptCity": 41,
+      "pathaoCode": 519,
+      "name": "Dewangonj"
+    },
+    {
+      "ptCity": 41,
+      "pathaoCode": 649,
+      "name": "Islampur (Jamalpur)"
+    },
+    {
+      "ptCity": 41,
+      "pathaoCode": 143,
+      "name": "Jamalpur Sadar"
+    },
+    {
+      "ptCity": 41,
+      "pathaoCode": 532,
+      "name": "Madarganj"
+    },
+    {
+      "ptCity": 41,
+      "pathaoCode": 531,
+      "name": "Melandaha"
+    },
+    {
+      "ptCity": 41,
+      "pathaoCode": 533,
+      "name": "Sarishabari"
+    },
+    {
+      "ptCity": 19,
+      "pathaoCode": 600,
+      "name": "Bagharpara"
+    },
+    {
+      "ptCity": 19,
+      "pathaoCode": 116,
+      "name": "Benapole"
+    },
+    {
+      "ptCity": 19,
+      "pathaoCode": 601,
+      "name": "Chaugachha"
+    },
+    {
+      "ptCity": 19,
+      "pathaoCode": 115,
+      "name": "Jessore Sadar"
+    },
+    {
+      "ptCity": 19,
+      "pathaoCode": 602,
+      "name": "Jhikargachha"
+    },
+    {
+      "ptCity": 19,
+      "pathaoCode": 603,
+      "name": "Keshabpur"
+    },
+    {
+      "ptCity": 19,
+      "pathaoCode": 604,
+      "name": "Monirampur"
+    },
+    {
+      "ptCity": 19,
+      "pathaoCode": 605,
+      "name": "Obhoynagar"
+    },
+    {
+      "ptCity": 19,
+      "pathaoCode": 606,
+      "name": "Sarsa"
+    },
+    {
+      "ptCity": 48,
+      "pathaoCode": 787,
+      "name": "Akkelpur"
+    },
+    {
+      "ptCity": 48,
+      "pathaoCode": 152,
+      "name": "Joypurhat Sadar "
+    },
+    {
+      "ptCity": 48,
+      "pathaoCode": 785,
+      "name": "Kalai"
+    },
+    {
+      "ptCity": 48,
+      "pathaoCode": 786,
+      "name": "Khetlal"
+    },
+    {
+      "ptCity": 48,
+      "pathaoCode": 687,
+      "name": "Panchbibi"
+    },
+    {
+      "ptCity": 27,
+      "pathaoCode": 128,
+      "name": "Jhalokathi Sadar"
+    },
+    {
+      "ptCity": 27,
+      "pathaoCode": 583,
+      "name": "Kathalia"
+    },
+    {
+      "ptCity": 27,
+      "pathaoCode": 609,
+      "name": "Nalchhiti"
+    },
+    {
+      "ptCity": 27,
+      "pathaoCode": 608,
+      "name": "Rajapur"
+    },
+    {
+      "ptCity": 49,
+      "pathaoCode": 465,
+      "name": "Harinakundu"
+    },
+    {
+      "ptCity": 49,
+      "pathaoCode": 153,
+      "name": "Jhenaidah sadar"
+    },
+    {
+      "ptCity": 49,
+      "pathaoCode": 466,
+      "name": "Kaligonj "
+    },
+    {
+      "ptCity": 49,
+      "pathaoCode": 467,
+      "name": "Kotchandpur"
+    },
+    {
+      "ptCity": 49,
+      "pathaoCode": 468,
+      "name": "Maheshpur"
+    },
+    {
+      "ptCity": 49,
+      "pathaoCode": 469,
+      "name": "Shailakupa"
+    },
+    {
+      "ptCity": 63,
+      "pathaoCode": 1142,
+      "name": "Bagaichari"
+    },
+    {
+      "ptCity": 63,
+      "pathaoCode": 709,
+      "name": "Dighinala"
+    },
+    {
+      "ptCity": 63,
+      "pathaoCode": 888,
+      "name": "Guimara"
+    },
+    {
+      "ptCity": 63,
+      "pathaoCode": 167,
+      "name": "Khagrachari Sadar"
+    },
+    {
+      "ptCity": 63,
+      "pathaoCode": 890,
+      "name": "Lakkhichhari"
+    },
+    {
+      "ptCity": 63,
+      "pathaoCode": 1143,
+      "name": "Langodu"
+    },
+    {
+      "ptCity": 63,
+      "pathaoCode": 997,
+      "name": "Mahalchhari"
+    },
+    {
+      "ptCity": 63,
+      "pathaoCode": 893,
+      "name": "Maischori"
+    },
+    {
+      "ptCity": 63,
+      "pathaoCode": 891,
+      "name": "Manikchhari "
+    },
+    {
+      "ptCity": 63,
+      "pathaoCode": 892,
+      "name": "Matiranga "
+    },
+    {
+      "ptCity": 63,
+      "pathaoCode": 894,
+      "name": "Mohalchori"
+    },
+    {
+      "ptCity": 63,
+      "pathaoCode": 895,
+      "name": "Panchhari"
+    },
+    {
+      "ptCity": 63,
+      "pathaoCode": 889,
+      "name": "Ramgar"
+    },
+    {
+      "ptCity": 40,
+      "pathaoCode": 530,
+      "name": "Komalnagar"
+    },
+    {
+      "ptCity": 40,
+      "pathaoCode": 142,
+      "name": "Lakshimpur Sadar"
+    },
+    {
+      "ptCity": 40,
+      "pathaoCode": 575,
+      "name": "Raipur"
+    },
+    {
+      "ptCity": 40,
+      "pathaoCode": 574,
+      "name": "Ramganj"
+    },
+    {
+      "ptCity": 40,
+      "pathaoCode": 747,
+      "name": "Ramgoti"
+    },
+    {
+      "ptCity": 20,
+      "pathaoCode": 515,
+      "name": "Batiaghata"
+    },
+    {
+      "ptCity": 20,
+      "pathaoCode": 824,
+      "name": "Boyra"
+    },
+    {
+      "ptCity": 20,
+      "pathaoCode": 1028,
+      "name": "Chandkhali"
+    },
+    {
+      "ptCity": 20,
+      "pathaoCode": 989,
+      "name": "Dacope"
+    },
+    {
+      "ptCity": 20,
+      "pathaoCode": 827,
+      "name": "Daulatpur"
+    },
+    {
+      "ptCity": 20,
+      "pathaoCode": 514,
+      "name": "Digholia"
+    },
+    {
+      "ptCity": 20,
+      "pathaoCode": 516,
+      "name": "Dumuria"
+    },
+    {
+      "ptCity": 20,
+      "pathaoCode": 826,
+      "name": "Fultola"
+    },
+    {
+      "ptCity": 20,
+      "pathaoCode": 825,
+      "name": "Khalishpur"
+    },
+    {
+      "ptCity": 20,
+      "pathaoCode": 117,
+      "name": "Khulna Sadar"
+    },
+    {
+      "ptCity": 20,
+      "pathaoCode": 1006,
+      "name": "Kopilmuni"
+    },
+    {
+      "ptCity": 20,
+      "pathaoCode": 1005,
+      "name": "Koyra"
+    },
+    {
+      "ptCity": 20,
+      "pathaoCode": 970,
+      "name": "Paikgachha Upozila"
+    },
+    {
+      "ptCity": 20,
+      "pathaoCode": 822,
+      "name": "Rupsha"
+    },
+    {
+      "ptCity": 20,
+      "pathaoCode": 823,
+      "name": "Sonadanga"
+    },
+    {
+      "ptCity": 20,
+      "pathaoCode": 969,
+      "name": "Tala Upozilla"
+    },
+    {
+      "ptCity": 20,
+      "pathaoCode": 992,
+      "name": "Terokhada  "
+    },
+    {
+      "ptCity": 55,
+      "pathaoCode": 788,
+      "name": "Bhurungamari"
+    },
+    {
+      "ptCity": 55,
+      "pathaoCode": 795,
+      "name": "Char Rajibpur"
+    },
+    {
+      "ptCity": 55,
+      "pathaoCode": 792,
+      "name": "Chilmari"
+    },
+    {
+      "ptCity": 55,
+      "pathaoCode": 159,
+      "name": "Kurigram Sadar"
+    },
+    {
+      "ptCity": 55,
+      "pathaoCode": 793,
+      "name": "Nagesshari"
+    },
+    {
+      "ptCity": 55,
+      "pathaoCode": 789,
+      "name": "Phulbari"
+    },
+    {
+      "ptCity": 55,
+      "pathaoCode": 790,
+      "name": "Rajarhat"
+    },
+    {
+      "ptCity": 55,
+      "pathaoCode": 794,
+      "name": "Rawmari"
+    },
+    {
+      "ptCity": 55,
+      "pathaoCode": 791,
+      "name": "Ulipur"
+    },
+    {
+      "ptCity": 42,
+      "pathaoCode": 996,
+      "name": "Astagram"
+    },
+    {
+      "ptCity": 42,
+      "pathaoCode": 881,
+      "name": "Bajitpur"
+    },
+    {
+      "ptCity": 42,
+      "pathaoCode": 720,
+      "name": "Bhairab"
+    },
+    {
+      "ptCity": 42,
+      "pathaoCode": 882,
+      "name": "Hossainpur"
+    },
+    {
+      "ptCity": 42,
+      "pathaoCode": 995,
+      "name": "Itna"
+    },
+    {
+      "ptCity": 42,
+      "pathaoCode": 883,
+      "name": "Karimganj"
+    },
+    {
+      "ptCity": 42,
+      "pathaoCode": 1144,
+      "name": "Katiadi Upozila"
+    },
+    {
+      "ptCity": 42,
+      "pathaoCode": 144,
+      "name": "Kishoreganj Sadar"
+    },
+    {
+      "ptCity": 42,
+      "pathaoCode": 884,
+      "name": "Kuliarchar"
+    },
+    {
+      "ptCity": 42,
+      "pathaoCode": 994,
+      "name": "Mithamoin"
+    },
+    {
+      "ptCity": 42,
+      "pathaoCode": 887,
+      "name": "Nikli"
+    },
+    {
+      "ptCity": 42,
+      "pathaoCode": 885,
+      "name": "Pakundia"
+    },
+    {
+      "ptCity": 42,
+      "pathaoCode": 886,
+      "name": "Tarial"
+    },
+    {
+      "ptCity": 28,
+      "pathaoCode": 635,
+      "name": " Kushtia-Mirpur"
+    },
+    {
+      "ptCity": 28,
+      "pathaoCode": 636,
+      "name": "Bheramara"
+    },
+    {
+      "ptCity": 28,
+      "pathaoCode": 829,
+      "name": "Daulatpur "
+    },
+    {
+      "ptCity": 28,
+      "pathaoCode": 828,
+      "name": "Islamic University"
+    },
+    {
+      "ptCity": 28,
+      "pathaoCode": 637,
+      "name": "Khoksha"
+    },
+    {
+      "ptCity": 28,
+      "pathaoCode": 634,
+      "name": "Kumarkhali"
+    },
+    {
+      "ptCity": 28,
+      "pathaoCode": 129,
+      "name": "Kushtia Sadar "
+    },
+    {
+      "ptCity": 57,
+      "pathaoCode": 802,
+      "name": "Aditmari"
+    },
+    {
+      "ptCity": 57,
+      "pathaoCode": 804,
+      "name": "Hatibandha"
+    },
+    {
+      "ptCity": 57,
+      "pathaoCode": 803,
+      "name": "Kaliganj - Lalmonirhat "
+    },
+    {
+      "ptCity": 57,
+      "pathaoCode": 161,
+      "name": "Lalmonirhat Sadar"
+    },
+    {
+      "ptCity": 57,
+      "pathaoCode": 805,
+      "name": "Patgram"
+    },
+    {
+      "ptCity": 43,
+      "pathaoCode": 870,
+      "name": "Dasar Thana"
+    },
+    {
+      "ptCity": 43,
+      "pathaoCode": 869,
+      "name": "Kalkini Thana"
+    },
+    {
+      "ptCity": 43,
+      "pathaoCode": 145,
+      "name": "Madaripur Sadar"
+    },
+    {
+      "ptCity": 43,
+      "pathaoCode": 146,
+      "name": "Rajoir thana"
+    },
+    {
+      "ptCity": 43,
+      "pathaoCode": 718,
+      "name": "Shibchar"
+    },
+    {
+      "ptCity": 60,
+      "pathaoCode": 164,
+      "name": "Magura Sadar"
+    },
+    {
+      "ptCity": 60,
+      "pathaoCode": 463,
+      "name": "Mohammadpur "
+    },
+    {
+      "ptCity": 60,
+      "pathaoCode": 956,
+      "name": "Shalikha"
+    },
+    {
+      "ptCity": 60,
+      "pathaoCode": 464,
+      "name": "Sreepur "
+    },
+    {
+      "ptCity": 16,
+      "pathaoCode": 1196,
+      "name": "ANGAR PARA"
+    },
+    {
+      "ptCity": 16,
+      "pathaoCode": 1194,
+      "name": "DAULATPUR"
+    },
+    {
+      "ptCity": 16,
+      "pathaoCode": 856,
+      "name": "Daulatpur - Manikganj"
+    },
+    {
+      "ptCity": 16,
+      "pathaoCode": 1193,
+      "name": "Ghior"
+    },
+    {
+      "ptCity": 16,
+      "pathaoCode": 854,
+      "name": "Ghior Thana"
+    },
+    {
+      "ptCity": 16,
+      "pathaoCode": 853,
+      "name": "Harirampur "
+    },
+    {
+      "ptCity": 16,
+      "pathaoCode": 112,
+      "name": "Manikganj Sadar"
+    },
+    {
+      "ptCity": 16,
+      "pathaoCode": 1195,
+      "name": "SHIBALAYA"
+    },
+    {
+      "ptCity": 16,
+      "pathaoCode": 857,
+      "name": "Saturia"
+    },
+    {
+      "ptCity": 16,
+      "pathaoCode": 855,
+      "name": "Shivalaya"
+    },
+    {
+      "ptCity": 16,
+      "pathaoCode": 852,
+      "name": "Singair"
+    },
+    {
+      "ptCity": 50,
+      "pathaoCode": 610,
+      "name": "Gangni"
+    },
+    {
+      "ptCity": 50,
+      "pathaoCode": 154,
+      "name": "Meherpur Sadar "
+    },
+    {
+      "ptCity": 50,
+      "pathaoCode": 830,
+      "name": "Mujibnagar"
+    },
+    {
+      "ptCity": 12,
+      "pathaoCode": 676,
+      "name": "Baralekha"
+    },
+    {
+      "ptCity": 12,
+      "pathaoCode": 678,
+      "name": "Juri"
+    },
+    {
+      "ptCity": 12,
+      "pathaoCode": 679,
+      "name": "Kamalganj"
+    },
+    {
+      "ptCity": 12,
+      "pathaoCode": 680,
+      "name": "Kulaura"
+    },
+    {
+      "ptCity": 12,
+      "pathaoCode": 108,
+      "name": "Mouluvibazar Sadar"
+    },
+    {
+      "ptCity": 12,
+      "pathaoCode": 677,
+      "name": "Rajnagar"
+    },
+    {
+      "ptCity": 12,
+      "pathaoCode": 624,
+      "name": "Sreemangal"
+    },
+    {
+      "ptCity": 23,
+      "pathaoCode": 821,
+      "name": "Gazaria"
+    },
+    {
+      "ptCity": 23,
+      "pathaoCode": 710,
+      "name": "Lohajong"
+    },
+    {
+      "ptCity": 23,
+      "pathaoCode": 124,
+      "name": "Munshiganj Sadar"
+    },
+    {
+      "ptCity": 23,
+      "pathaoCode": 711,
+      "name": "Sirajdikhan"
+    },
+    {
+      "ptCity": 23,
+      "pathaoCode": 712,
+      "name": "Sreenagar"
+    },
+    {
+      "ptCity": 23,
+      "pathaoCode": 713,
+      "name": "Tongibari"
+    },
+    {
+      "ptCity": 47,
+      "pathaoCode": 520,
+      "name": "Belabo"
+    },
+    {
+      "ptCity": 47,
+      "pathaoCode": 1199,
+      "name": "Chalakchar"
+    },
+    {
+      "ptCity": 47,
+      "pathaoCode": 1198,
+      "name": "Hatirdia"
+    },
+    {
+      "ptCity": 47,
+      "pathaoCode": 1197,
+      "name": "MONOHARDI"
+    },
+    {
+      "ptCity": 47,
+      "pathaoCode": 708,
+      "name": "Madhabdi"
+    },
+    {
+      "ptCity": 47,
+      "pathaoCode": 521,
+      "name": "Monohordi"
+    },
+    {
+      "ptCity": 47,
+      "pathaoCode": 151,
+      "name": "Narshingdi Sadar"
+    },
+    {
+      "ptCity": 47,
+      "pathaoCode": 522,
+      "name": "Palash"
+    },
+    {
+      "ptCity": 47,
+      "pathaoCode": 1141,
+      "name": "Raypura Upazila North Zone"
+    },
+    {
+      "ptCity": 47,
+      "pathaoCode": 523,
+      "name": "Raypura Upazila South Zone"
+    },
+    {
+      "ptCity": 47,
+      "pathaoCode": 524,
+      "name": "Shibpur"
+    },
+    {
+      "ptCity": 54,
+      "pathaoCode": 706,
+      "name": "Kalia"
+    },
+    {
+      "ptCity": 54,
+      "pathaoCode": 707,
+      "name": "Narail - Lohagara  "
+    },
+    {
+      "ptCity": 54,
+      "pathaoCode": 158,
+      "name": "Narail Sadar"
+    },
+    {
+      "ptCity": 54,
+      "pathaoCode": 982,
+      "name": "Terokhada"
+    },
+    {
+      "ptCity": 21,
+      "pathaoCode": 1025,
+      "name": "2 no gate"
+    },
+    {
+      "ptCity": 21,
+      "pathaoCode": 721,
+      "name": "Araihazar"
+    },
+    {
+      "ptCity": 21,
+      "pathaoCode": 1010,
+      "name": "Baidder Bazar"
+    },
+    {
+      "ptCity": 21,
+      "pathaoCode": 648,
+      "name": "Bandar"
+    },
+    {
+      "ptCity": 21,
+      "pathaoCode": 1114,
+      "name": "Bausia"
+    },
+    {
+      "ptCity": 21,
+      "pathaoCode": 1084,
+      "name": "Bb road"
+    },
+    {
+      "ptCity": 21,
+      "pathaoCode": 1145,
+      "name": "Beldi-Daudpur"
+    },
+    {
+      "ptCity": 21,
+      "pathaoCode": 1127,
+      "name": "Bhuighor"
+    },
+    {
+      "ptCity": 21,
+      "pathaoCode": 723,
+      "name": "Bhulta/Gawsia"
+    },
+    {
+      "ptCity": 21,
+      "pathaoCode": 1189,
+      "name": "Bisic"
+    },
+    {
+      "ptCity": 21,
+      "pathaoCode": 1191,
+      "name": "Boktaboli"
+    },
+    {
+      "ptCity": 21,
+      "pathaoCode": 1120,
+      "name": "Chashra"
+    },
+    {
+      "ptCity": 21,
+      "pathaoCode": 1124,
+      "name": "Delpara"
+    },
+    {
+      "ptCity": 21,
+      "pathaoCode": 121,
+      "name": "Don Chamber"
+    },
+    {
+      "ptCity": 21,
+      "pathaoCode": 1083,
+      "name": "Ekrampur"
+    },
+    {
+      "ptCity": 21,
+      "pathaoCode": 1126,
+      "name": "Epz"
+    },
+    {
+      "ptCity": 21,
+      "pathaoCode": 1192,
+      "name": "Isdair"
+    },
+    {
+      "ptCity": 21,
+      "pathaoCode": 1082,
+      "name": "Ispahani Bandar"
+    },
+    {
+      "ptCity": 21,
+      "pathaoCode": 1017,
+      "name": "Jalkuri"
+    },
+    {
+      "ptCity": 21,
+      "pathaoCode": 1033,
+      "name": "Kachpur"
+    },
+    {
+      "ptCity": 21,
+      "pathaoCode": 1089,
+      "name": "Kashipur"
+    },
+    {
+      "ptCity": 21,
+      "pathaoCode": 1123,
+      "name": "Khanpur"
+    },
+    {
+      "ptCity": 21,
+      "pathaoCode": 1080,
+      "name": "Madanganj"
+    },
+    {
+      "ptCity": 21,
+      "pathaoCode": 1004,
+      "name": "Madanpur"
+    },
+    {
+      "ptCity": 21,
+      "pathaoCode": 1186,
+      "name": "Mahmudpur"
+    },
+    {
+      "ptCity": 21,
+      "pathaoCode": 1118,
+      "name": "Majdair"
+    },
+    {
+      "ptCity": 21,
+      "pathaoCode": 1020,
+      "name": "Masdair"
+    },
+    {
+      "ptCity": 21,
+      "pathaoCode": 1188,
+      "name": "Mitali Market"
+    },
+    {
+      "ptCity": 21,
+      "pathaoCode": 1039,
+      "name": "Modonpur"
+    },
+    {
+      "ptCity": 21,
+      "pathaoCode": 1091,
+      "name": "Mograpara"
+    },
+    {
+      "ptCity": 21,
+      "pathaoCode": 1081,
+      "name": "Nabiganj Bandar"
+    },
+    {
+      "ptCity": 21,
+      "pathaoCode": 1146,
+      "name": "Neela Market"
+    },
+    {
+      "ptCity": 21,
+      "pathaoCode": 1117,
+      "name": "New town"
+    },
+    {
+      "ptCity": 21,
+      "pathaoCode": 1148,
+      "name": "Nila Market"
+    },
+    {
+      "ptCity": 21,
+      "pathaoCode": 1024,
+      "name": "Nitaiganj"
+    },
+    {
+      "ptCity": 21,
+      "pathaoCode": 334,
+      "name": "Pagla"
+    },
+    {
+      "ptCity": 21,
+      "pathaoCode": 1119,
+      "name": "Panchabati"
+    },
+    {
+      "ptCity": 21,
+      "pathaoCode": 1187,
+      "name": "Passport office (Siddhirganj)"
+    },
+    {
+      "ptCity": 21,
+      "pathaoCode": 1021,
+      "name": "Ponchoboti"
+    },
+    {
+      "ptCity": 21,
+      "pathaoCode": 1147,
+      "name": "Purbachal"
+    },
+    {
+      "ptCity": 21,
+      "pathaoCode": 1116,
+      "name": "Rosulpur "
+    },
+    {
+      "ptCity": 21,
+      "pathaoCode": 722,
+      "name": "Rupganj"
+    },
+    {
+      "ptCity": 21,
+      "pathaoCode": 1086,
+      "name": "Sayedpur - Narayanganj"
+    },
+    {
+      "ptCity": 21,
+      "pathaoCode": 1103,
+      "name": "Shaheb para "
+    },
+    {
+      "ptCity": 21,
+      "pathaoCode": 1022,
+      "name": "Shanarpar"
+    },
+    {
+      "ptCity": 21,
+      "pathaoCode": 1018,
+      "name": "Shibu Market"
+    },
+    {
+      "ptCity": 21,
+      "pathaoCode": 1125,
+      "name": "Shiddriganj"
+    },
+    {
+      "ptCity": 21,
+      "pathaoCode": 493,
+      "name": "Siddirganj"
+    },
+    {
+      "ptCity": 21,
+      "pathaoCode": 654,
+      "name": "Sonargaon"
+    },
+    {
+      "ptCity": 21,
+      "pathaoCode": 120,
+      "name": "South Chashara"
+    },
+    {
+      "ptCity": 21,
+      "pathaoCode": 1115,
+      "name": "Vabarchar "
+    },
+    {
+      "ptCity": 21,
+      "pathaoCode": 1190,
+      "name": "Volail"
+    },
+    {
+      "ptCity": 21,
+      "pathaoCode": 1019,
+      "name": "Zilla Parishod"
+    },
+    {
+      "ptCity": 21,
+      "pathaoCode": 1085,
+      "name": "amlapara"
+    },
+    {
+      "ptCity": 21,
+      "pathaoCode": 1052,
+      "name": "ananda bazar"
+    },
+    {
+      "ptCity": 21,
+      "pathaoCode": 1088,
+      "name": "baburail"
+    },
+    {
+      "ptCity": 21,
+      "pathaoCode": 1051,
+      "name": "kaikartek"
+    },
+    {
+      "ptCity": 21,
+      "pathaoCode": 1050,
+      "name": "kanchpur"
+    },
+    {
+      "ptCity": 21,
+      "pathaoCode": 1087,
+      "name": "paikpara Narayanganj"
+    },
+    {
+      "ptCity": 26,
+      "pathaoCode": 850,
+      "name": "Bhaluka"
+    },
+    {
+      "ptCity": 26,
+      "pathaoCode": 847,
+      "name": "Dhobaura"
+    },
+    {
+      "ptCity": 26,
+      "pathaoCode": 511,
+      "name": "Fulbaria"
+    },
+    {
+      "ptCity": 26,
+      "pathaoCode": 845,
+      "name": "Gafargaon"
+    },
+    {
+      "ptCity": 26,
+      "pathaoCode": 846,
+      "name": "Gauripur"
+    },
+    {
+      "ptCity": 26,
+      "pathaoCode": 851,
+      "name": "Haluaghat"
+    },
+    {
+      "ptCity": 26,
+      "pathaoCode": 513,
+      "name": "Ishwarganj"
+    },
+    {
+      "ptCity": 26,
+      "pathaoCode": 512,
+      "name": "Muktagachha"
+    },
+    {
+      "ptCity": 26,
+      "pathaoCode": 127,
+      "name": "Mymensingh Sadar"
+    },
+    {
+      "ptCity": 26,
+      "pathaoCode": 848,
+      "name": "Nandail"
+    },
+    {
+      "ptCity": 26,
+      "pathaoCode": 1038,
+      "name": "Pagla"
+    },
+    {
+      "ptCity": 26,
+      "pathaoCode": 849,
+      "name": "Phulpur"
+    },
+    {
+      "ptCity": 26,
+      "pathaoCode": 1049,
+      "name": "Tarakanda"
+    },
+    {
+      "ptCity": 26,
+      "pathaoCode": 510,
+      "name": "Trishal"
+    },
+    {
+      "ptCity": 14,
+      "pathaoCode": 503,
+      "name": "Bagatipara"
+    },
+    {
+      "ptCity": 14,
+      "pathaoCode": 500,
+      "name": "Baraigram"
+    },
+    {
+      "ptCity": 14,
+      "pathaoCode": 991,
+      "name": "Gopalpur UPO"
+    },
+    {
+      "ptCity": 14,
+      "pathaoCode": 502,
+      "name": "Gurdaspur"
+    },
+    {
+      "ptCity": 14,
+      "pathaoCode": 579,
+      "name": "Naldanga - Natore"
+    },
+    {
+      "ptCity": 14,
+      "pathaoCode": 110,
+      "name": "Natore Sadar "
+    },
+    {
+      "ptCity": 14,
+      "pathaoCode": 501,
+      "name": "Singra"
+    },
+    {
+      "ptCity": 46,
+      "pathaoCode": 584,
+      "name": "Atrai"
+    },
+    {
+      "ptCity": 46,
+      "pathaoCode": 766,
+      "name": "Bodolgaci"
+    },
+    {
+      "ptCity": 46,
+      "pathaoCode": 765,
+      "name": "Dhamairhat "
+    },
+    {
+      "ptCity": 46,
+      "pathaoCode": 759,
+      "name": "Manda"
+    },
+    {
+      "ptCity": 46,
+      "pathaoCode": 761,
+      "name": "Mohadebpur "
+    },
+    {
+      "ptCity": 46,
+      "pathaoCode": 150,
+      "name": "Naogaon  Sadar"
+    },
+    {
+      "ptCity": 46,
+      "pathaoCode": 760,
+      "name": "Niyamatpur"
+    },
+    {
+      "ptCity": 46,
+      "pathaoCode": 764,
+      "name": "Porsha"
+    },
+    {
+      "ptCity": 46,
+      "pathaoCode": 762,
+      "name": "Potnitola "
+    },
+    {
+      "ptCity": 46,
+      "pathaoCode": 758,
+      "name": "Raninagaor"
+    },
+    {
+      "ptCity": 46,
+      "pathaoCode": 763,
+      "name": "Sapaher"
+    },
+    {
+      "ptCity": 44,
+      "pathaoCode": 872,
+      "name": "Atpara"
+    },
+    {
+      "ptCity": 44,
+      "pathaoCode": 878,
+      "name": "Barhatta"
+    },
+    {
+      "ptCity": 44,
+      "pathaoCode": 873,
+      "name": "Kalmakanda"
+    },
+    {
+      "ptCity": 44,
+      "pathaoCode": 874,
+      "name": "Kendua"
+    },
+    {
+      "ptCity": 44,
+      "pathaoCode": 875,
+      "name": "Khaliajuri"
+    },
+    {
+      "ptCity": 44,
+      "pathaoCode": 879,
+      "name": "Madan"
+    },
+    {
+      "ptCity": 44,
+      "pathaoCode": 880,
+      "name": "Mohanganj"
+    },
+    {
+      "ptCity": 44,
+      "pathaoCode": 147,
+      "name": "Netrokona Sadar"
+    },
+    {
+      "ptCity": 44,
+      "pathaoCode": 877,
+      "name": "Purbadhala"
+    },
+    {
+      "ptCity": 44,
+      "pathaoCode": 876,
+      "name": "Susang Durgapur"
+    },
+    {
+      "ptCity": 39,
+      "pathaoCode": 640,
+      "name": "Dimla"
+    },
+    {
+      "ptCity": 39,
+      "pathaoCode": 641,
+      "name": "Domar"
+    },
+    {
+      "ptCity": 39,
+      "pathaoCode": 642,
+      "name": "Jaldhaka"
+    },
+    {
+      "ptCity": 39,
+      "pathaoCode": 643,
+      "name": "Kishoriganj"
+    },
+    {
+      "ptCity": 39,
+      "pathaoCode": 140,
+      "name": "Nilphamari Sadar"
+    },
+    {
+      "ptCity": 39,
+      "pathaoCode": 141,
+      "name": "Saidpur "
+    },
+    {
+      "ptCity": 39,
+      "pathaoCode": 590,
+      "name": "Taraganj"
+    },
+    {
+      "ptCity": 7,
+      "pathaoCode": 620,
+      "name": "Basurhat"
+    },
+    {
+      "ptCity": 7,
+      "pathaoCode": 621,
+      "name": "Begumganj"
+    },
+    {
+      "ptCity": 7,
+      "pathaoCode": 622,
+      "name": "Chatkhil"
+    },
+    {
+      "ptCity": 7,
+      "pathaoCode": 742,
+      "name": "Chondrogonj Thana"
+    },
+    {
+      "ptCity": 7,
+      "pathaoCode": 744,
+      "name": "Companigonj"
+    },
+    {
+      "ptCity": 7,
+      "pathaoCode": 983,
+      "name": "Hatia"
+    },
+    {
+      "ptCity": 7,
+      "pathaoCode": 1106,
+      "name": "Kobirhat"
+    },
+    {
+      "ptCity": 7,
+      "pathaoCode": 639,
+      "name": "Maizdee"
+    },
+    {
+      "ptCity": 7,
+      "pathaoCode": 101,
+      "name": "Noakhali Sadar"
+    },
+    {
+      "ptCity": 7,
+      "pathaoCode": 623,
+      "name": "Senbag"
+    },
+    {
+      "ptCity": 7,
+      "pathaoCode": 704,
+      "name": "Sonaimuri"
+    },
+    {
+      "ptCity": 7,
+      "pathaoCode": 743,
+      "name": "Sonapur"
+    },
+    {
+      "ptCity": 7,
+      "pathaoCode": 745,
+      "name": "Subornochar"
+    },
+    {
+      "ptCity": 29,
+      "pathaoCode": 470,
+      "name": "Bauphal"
+    },
+    {
+      "ptCity": 29,
+      "pathaoCode": 999,
+      "name": "Dashmina"
+    },
+    {
+      "ptCity": 29,
+      "pathaoCode": 471,
+      "name": "Dumkee"
+    },
+    {
+      "ptCity": 29,
+      "pathaoCode": 472,
+      "name": "Gala chipa"
+    },
+    {
+      "ptCity": 29,
+      "pathaoCode": 473,
+      "name": "Kala para"
+    },
+    {
+      "ptCity": 29,
+      "pathaoCode": 988,
+      "name": "Khepupara"
+    },
+    {
+      "ptCity": 29,
+      "pathaoCode": 1034,
+      "name": "Mohipur"
+    },
+    {
+      "ptCity": 29,
+      "pathaoCode": 130,
+      "name": "Patuakhali Sadar"
+    },
+    {
+      "ptCity": 29,
+      "pathaoCode": 998,
+      "name": "Subidkhali"
+    },
+    {
+      "ptCity": 31,
+      "pathaoCode": 906,
+      "name": "Bhandaria"
+    },
+    {
+      "ptCity": 31,
+      "pathaoCode": 907,
+      "name": "Mathbaria"
+    },
+    {
+      "ptCity": 31,
+      "pathaoCode": 571,
+      "name": "Nazirpur"
+    },
+    {
+      "ptCity": 31,
+      "pathaoCode": 132,
+      "name": "Pirojpur Sadar"
+    },
+    {
+      "ptCity": 31,
+      "pathaoCode": 905,
+      "name": "Swarupkathi"
+    },
+    {
+      "ptCity": 31,
+      "pathaoCode": 570,
+      "name": "kaukhali"
+    },
+    {
+      "ptCity": 24,
+      "pathaoCode": 1040,
+      "name": "Aminpur"
+    },
+    {
+      "ptCity": 24,
+      "pathaoCode": 773,
+      "name": "Ataikula"
+    },
+    {
+      "ptCity": 24,
+      "pathaoCode": 505,
+      "name": "Atghoria"
+    },
+    {
+      "ptCity": 24,
+      "pathaoCode": 555,
+      "name": "Bera"
+    },
+    {
+      "ptCity": 24,
+      "pathaoCode": 556,
+      "name": "Bhangura"
+    },
+    {
+      "ptCity": 24,
+      "pathaoCode": 557,
+      "name": "Chatmohar"
+    },
+    {
+      "ptCity": 24,
+      "pathaoCode": 504,
+      "name": "Ishwardi"
+    },
+    {
+      "ptCity": 24,
+      "pathaoCode": 772,
+      "name": "Kasinathpur"
+    },
+    {
+      "ptCity": 24,
+      "pathaoCode": 1007,
+      "name": "Lalpur"
+    },
+    {
+      "ptCity": 24,
+      "pathaoCode": 125,
+      "name": "Pabna Sadar "
+    },
+    {
+      "ptCity": 24,
+      "pathaoCode": 770,
+      "name": "Pabna-Faridpur"
+    },
+    {
+      "ptCity": 24,
+      "pathaoCode": 771,
+      "name": "Sathia"
+    },
+    {
+      "ptCity": 24,
+      "pathaoCode": 506,
+      "name": "Sujanagar"
+    },
+    {
+      "ptCity": 24,
+      "pathaoCode": 554,
+      "name": "Tebunia"
+    },
+    {
+      "ptCity": 58,
+      "pathaoCode": 947,
+      "name": "Baliakandi"
+    },
+    {
+      "ptCity": 58,
+      "pathaoCode": 948,
+      "name": "Goalanda"
+    },
+    {
+      "ptCity": 58,
+      "pathaoCode": 950,
+      "name": "Kalukhali"
+    },
+    {
+      "ptCity": 58,
+      "pathaoCode": 949,
+      "name": "Pangsha"
+    },
+    {
+      "ptCity": 58,
+      "pathaoCode": 162,
+      "name": "Rajbari Sadar"
+    },
+    {
+      "ptCity": 37,
+      "pathaoCode": 806,
+      "name": "Atwari"
+    },
+    {
+      "ptCity": 37,
+      "pathaoCode": 809,
+      "name": "Boda"
+    },
+    {
+      "ptCity": 37,
+      "pathaoCode": 808,
+      "name": "Debiganj"
+    },
+    {
+      "ptCity": 37,
+      "pathaoCode": 138,
+      "name": "Panchagarh Sadar"
+    },
+    {
+      "ptCity": 37,
+      "pathaoCode": 807,
+      "name": "Tetulia"
+    },
+    {
+      "ptCity": 4,
+      "pathaoCode": 577,
+      "name": "Bagha"
+    },
+    {
+      "ptCity": 4,
+      "pathaoCode": 497,
+      "name": "Bagmara"
+    },
+    {
+      "ptCity": 4,
+      "pathaoCode": 1011,
+      "name": "Banseshwar"
+    },
+    {
+      "ptCity": 4,
+      "pathaoCode": 499,
+      "name": "Charghat"
+    },
+    {
+      "ptCity": 4,
+      "pathaoCode": 498,
+      "name": "Durgapur"
+    },
+    {
+      "ptCity": 4,
+      "pathaoCode": 578,
+      "name": "Godagari "
+    },
+    {
+      "ptCity": 4,
+      "pathaoCode": 767,
+      "name": "Katakhali"
+    },
+    {
+      "ptCity": 4,
+      "pathaoCode": 495,
+      "name": "Mohonpur"
+    },
+    {
+      "ptCity": 4,
+      "pathaoCode": 768,
+      "name": "Motihar"
+    },
+    {
+      "ptCity": 4,
+      "pathaoCode": 494,
+      "name": "Paba"
+    },
+    {
+      "ptCity": 4,
+      "pathaoCode": 576,
+      "name": "Puthia"
+    },
+    {
+      "ptCity": 4,
+      "pathaoCode": 769,
+      "name": "Rajpara"
+    },
+    {
+      "ptCity": 4,
+      "pathaoCode": 90,
+      "name": "Rajshahi Sadar (Boalia)"
+    },
+    {
+      "ptCity": 4,
+      "pathaoCode": 580,
+      "name": "Shah Mokdum"
+    },
+    {
+      "ptCity": 4,
+      "pathaoCode": 1012,
+      "name": "Sharda"
+    },
+    {
+      "ptCity": 4,
+      "pathaoCode": 1013,
+      "name": "Taherpur"
+    },
+    {
+      "ptCity": 4,
+      "pathaoCode": 496,
+      "name": "Tanor"
+    },
+    {
+      "ptCity": 59,
+      "pathaoCode": 672,
+      "name": "Kaptai"
+    },
+    {
+      "ptCity": 59,
+      "pathaoCode": 669,
+      "name": "Kawkhali Thana"
+    },
+    {
+      "ptCity": 59,
+      "pathaoCode": 163,
+      "name": "Kotwali Thana"
+    },
+    {
+      "ptCity": 59,
+      "pathaoCode": 673,
+      "name": "Nanichhar"
+    },
+    {
+      "ptCity": 59,
+      "pathaoCode": 674,
+      "name": "Rajasthali"
+    },
+    {
+      "ptCity": 25,
+      "pathaoCode": 585,
+      "name": "Badarganj"
+    },
+    {
+      "ptCity": 25,
+      "pathaoCode": 586,
+      "name": "Gangachara"
+    },
+    {
+      "ptCity": 25,
+      "pathaoCode": 796,
+      "name": "Haragach Thana"
+    },
+    {
+      "ptCity": 25,
+      "pathaoCode": 587,
+      "name": "Kaunia"
+    },
+    {
+      "ptCity": 25,
+      "pathaoCode": 801,
+      "name": "Mahiganj Thana"
+    },
+    {
+      "ptCity": 25,
+      "pathaoCode": 588,
+      "name": "Mithapukur"
+    },
+    {
+      "ptCity": 25,
+      "pathaoCode": 589,
+      "name": "Pirgachha"
+    },
+    {
+      "ptCity": 25,
+      "pathaoCode": 797,
+      "name": "Pirganj Thana"
+    },
+    {
+      "ptCity": 25,
+      "pathaoCode": 799,
+      "name": "Porshurampur Thana"
+    },
+    {
+      "ptCity": 25,
+      "pathaoCode": 798,
+      "name": "Rangpur Cantonment"
+    },
+    {
+      "ptCity": 25,
+      "pathaoCode": 126,
+      "name": "Rangpur Sadar(Kotowali Thana)"
+    },
+    {
+      "ptCity": 25,
+      "pathaoCode": 800,
+      "name": "Tajhat Thana"
+    },
+    {
+      "ptCity": 51,
+      "pathaoCode": 658,
+      "name": "Ashashuni Thana"
+    },
+    {
+      "ptCity": 51,
+      "pathaoCode": 652,
+      "name": "Debhata Thana"
+    },
+    {
+      "ptCity": 51,
+      "pathaoCode": 650,
+      "name": "Kalaroa"
+    },
+    {
+      "ptCity": 51,
+      "pathaoCode": 653,
+      "name": "Kaliganj  "
+    },
+    {
+      "ptCity": 51,
+      "pathaoCode": 155,
+      "name": "Satkhira Sadar "
+    },
+    {
+      "ptCity": 51,
+      "pathaoCode": 659,
+      "name": "Shymnagar"
+    },
+    {
+      "ptCity": 51,
+      "pathaoCode": 651,
+      "name": "Tala Thana"
+    },
+    {
+      "ptCity": 33,
+      "pathaoCode": 526,
+      "name": "Jhinaigati"
+    },
+    {
+      "ptCity": 33,
+      "pathaoCode": 527,
+      "name": "Nakla"
+    },
+    {
+      "ptCity": 33,
+      "pathaoCode": 528,
+      "name": "Nalitabari"
+    },
+    {
+      "ptCity": 33,
+      "pathaoCode": 134,
+      "name": "Sherpur Sadar"
+    },
+    {
+      "ptCity": 33,
+      "pathaoCode": 625,
+      "name": "Sreebardi"
+    },
+    {
+      "ptCity": 10,
+      "pathaoCode": 581,
+      "name": "Belkuchi"
+    },
+    {
+      "ptCity": 10,
+      "pathaoCode": 1029,
+      "name": "Chowhali"
+    },
+    {
+      "ptCity": 10,
+      "pathaoCode": 774,
+      "name": "Kamarkhanda"
+    },
+    {
+      "ptCity": 10,
+      "pathaoCode": 780,
+      "name": "Kazipur"
+    },
+    {
+      "ptCity": 10,
+      "pathaoCode": 779,
+      "name": "Rayganj"
+    },
+    {
+      "ptCity": 10,
+      "pathaoCode": 777,
+      "name": "Salonga"
+    },
+    {
+      "ptCity": 10,
+      "pathaoCode": 775,
+      "name": "Shahjadpur - Shahjadpur"
+    },
+    {
+      "ptCity": 10,
+      "pathaoCode": 105,
+      "name": "Sirajganj Sadar"
+    },
+    {
+      "ptCity": 10,
+      "pathaoCode": 778,
+      "name": "Tarash"
+    },
+    {
+      "ptCity": 10,
+      "pathaoCode": 776,
+      "name": "Ullapara"
+    },
+    {
+      "ptCity": 64,
+      "pathaoCode": 662,
+      "name": "Bhedorganj"
+    },
+    {
+      "ptCity": 64,
+      "pathaoCode": 663,
+      "name": "Damudhya"
+    },
+    {
+      "ptCity": 64,
+      "pathaoCode": 664,
+      "name": "Gosairhat"
+    },
+    {
+      "ptCity": 64,
+      "pathaoCode": 665,
+      "name": "Jajira"
+    },
+    {
+      "ptCity": 64,
+      "pathaoCode": 666,
+      "name": "Naria"
+    },
+    {
+      "ptCity": 64,
+      "pathaoCode": 1073,
+      "name": "Shakhipur "
+    },
+    {
+      "ptCity": 64,
+      "pathaoCode": 168,
+      "name": "Shariatpur Sadar (Palong)"
+    },
+    {
+      "ptCity": 45,
+      "pathaoCode": 834,
+      "name": "Bishwamvarpur"
+    },
+    {
+      "ptCity": 45,
+      "pathaoCode": 149,
+      "name": "Chhatak"
+    },
+    {
+      "ptCity": 45,
+      "pathaoCode": 836,
+      "name": "Derai"
+    },
+    {
+      "ptCity": 45,
+      "pathaoCode": 835,
+      "name": "Dharmapasha"
+    },
+    {
+      "ptCity": 45,
+      "pathaoCode": 837,
+      "name": "Dowarabazar"
+    },
+    {
+      "ptCity": 45,
+      "pathaoCode": 619,
+      "name": "Jagnnathpur"
+    },
+    {
+      "ptCity": 45,
+      "pathaoCode": 838,
+      "name": "Jamalganj"
+    },
+    {
+      "ptCity": 45,
+      "pathaoCode": 840,
+      "name": "Salla"
+    },
+    {
+      "ptCity": 45,
+      "pathaoCode": 839,
+      "name": "Shantiganj"
+    },
+    {
+      "ptCity": 45,
+      "pathaoCode": 148,
+      "name": "Sunamganj Sadar "
+    },
+    {
+      "ptCity": 45,
+      "pathaoCode": 841,
+      "name": "Tahirpur"
+    },
+    {
+      "ptCity": 13,
+      "pathaoCode": 535,
+      "name": "Bashail"
+    },
+    {
+      "ptCity": 13,
+      "pathaoCode": 536,
+      "name": "Bhuapur"
+    },
+    {
+      "ptCity": 13,
+      "pathaoCode": 537,
+      "name": "Delduar"
+    },
+    {
+      "ptCity": 13,
+      "pathaoCode": 675,
+      "name": "Dhanbari"
+    },
+    {
+      "ptCity": 13,
+      "pathaoCode": 538,
+      "name": "Ghatail"
+    },
+    {
+      "ptCity": 13,
+      "pathaoCode": 539,
+      "name": "Gopalpur"
+    },
+    {
+      "ptCity": 13,
+      "pathaoCode": 540,
+      "name": "Kalihati"
+    },
+    {
+      "ptCity": 13,
+      "pathaoCode": 541,
+      "name": "Madhupur"
+    },
+    {
+      "ptCity": 13,
+      "pathaoCode": 542,
+      "name": "Mirzapur"
+    },
+    {
+      "ptCity": 13,
+      "pathaoCode": 543,
+      "name": "Nagarpur"
+    },
+    {
+      "ptCity": 13,
+      "pathaoCode": 544,
+      "name": "Sakhipur"
+    },
+    {
+      "ptCity": 13,
+      "pathaoCode": 109,
+      "name": "Tangail Sadar"
+    },
+    {
+      "ptCity": 36,
+      "pathaoCode": 951,
+      "name": "Baliadangi"
+    },
+    {
+      "ptCity": 36,
+      "pathaoCode": 952,
+      "name": "Haripur"
+    },
+    {
+      "ptCity": 36,
+      "pathaoCode": 953,
+      "name": "Pirganj"
+    },
+    {
+      "ptCity": 36,
+      "pathaoCode": 954,
+      "name": "Ranisankail"
+    },
+    {
+      "ptCity": 36,
+      "pathaoCode": 955,
+      "name": "Ruhiya "
+    },
+    {
+      "ptCity": 36,
+      "pathaoCode": 137,
+      "name": "Thakurgaon Sadar"
+    },
+    {
+      "ptCity": 3,
+      "pathaoCode": 611,
+      "name": "Balaganj"
+    },
+    {
+      "ptCity": 3,
+      "pathaoCode": 461,
+      "name": "Beanibazar"
+    },
+    {
+      "ptCity": 3,
+      "pathaoCode": 612,
+      "name": "Bishwanath"
+    },
+    {
+      "ptCity": 3,
+      "pathaoCode": 618,
+      "name": "Companyganj"
+    },
+    {
+      "ptCity": 3,
+      "pathaoCode": 831,
+      "name": "Dakshin Surma "
+    },
+    {
+      "ptCity": 3,
+      "pathaoCode": 613,
+      "name": "Fenchuganj"
+    },
+    {
+      "ptCity": 3,
+      "pathaoCode": 615,
+      "name": "Golapganj"
+    },
+    {
+      "ptCity": 3,
+      "pathaoCode": 614,
+      "name": "Gowainghat"
+    },
+    {
+      "ptCity": 3,
+      "pathaoCode": 616,
+      "name": "Jaintapur"
+    },
+    {
+      "ptCity": 3,
+      "pathaoCode": 617,
+      "name": "Kanaighat"
+    },
+    {
+      "ptCity": 3,
+      "pathaoCode": 832,
+      "name": "Osmani Nagar"
+    },
+    {
+      "ptCity": 3,
+      "pathaoCode": 89,
+      "name": "Sylhet Sadar"
+    },
+    {
+      "ptCity": 3,
+      "pathaoCode": 833,
+      "name": "Zakiganj"
+    }
+  ],
+  "status": false,
+  "message": "Zone Modyfiy 891"
+}

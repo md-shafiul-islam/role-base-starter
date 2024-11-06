@@ -1,0 +1,13 @@
+
+/* .search-btn{
+  display: flex;
+  flex-direction: row;
+  max-height: 40px;
+  width: 40px;
+  justify-content: center;
+} */
+.cst-layout-body{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}

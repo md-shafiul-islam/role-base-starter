@@ -1,0 +1,8 @@
+.site-card-border-less-wrapper {
+    height: 310px;
+    width: 310px;
+}
+.product-image > Image{
+    height: 210px !important;
+    width: 210px !important;
+}
